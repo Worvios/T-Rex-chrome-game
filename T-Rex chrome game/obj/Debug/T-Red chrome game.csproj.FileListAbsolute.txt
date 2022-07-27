@@ -1,0 +1,10 @@
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\bin\Debug\T-Red chrome game.exe.config
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\bin\Debug\T-Red chrome game.exe
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\bin\Debug\T-Red chrome game.pdb
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T-Red chrome game.csproj.AssemblyReference.cache
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T_Red_chrome_game.Form1.resources
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T_Red_chrome_game.Properties.Resources.resources
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T-Red chrome game.csproj.GenerateResource.cache
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T-Red chrome game.csproj.CoreCompileInputs.cache
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T-Red chrome game.exe
+C:\Users\Worvi\source\repos\T-Red chrome game\T-Red chrome game\obj\Debug\T-Red chrome game.pdb
